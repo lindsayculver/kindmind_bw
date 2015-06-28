@@ -1,0 +1,40 @@
+html {
+  background:url("../kindmind/images/bw_1.jpg") no-repeat center
+  center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  padding: 20px;
+}
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  color: grey;
+  font-size: 5px;
+}
+.main_box {
+  width: 990px;
+  height: 500px;
+  background: white;
+  opacity: .2;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
+}
+ p {
+   text-align: center;
+   font-family: 'Ubuntu', sans-serif;
+ }
+
+ .welcome_text {
+   font-size: 60px;
+ }
